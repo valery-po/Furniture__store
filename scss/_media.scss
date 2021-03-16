@@ -1,0 +1,281 @@
+@media(max-width: 1289px){
+   
+    .projects__card img {
+        width: 100%;
+    }
+
+    .footer__inner {
+        padding: 100px 80px 0;
+    }
+}
+
+@media(max-width: 1138px){
+   
+.header__box--left {
+    padding-left: 30px;
+    padding-right: 90px;
+}
+
+.header__search-form {
+    width: 400px;
+    left: 65%;
+}
+.sales-leaders__items,
+.new-items__items {
+    justify-content: center;
+}
+
+}
+
+@media(max-width: 1031px){ 
+    .header__menu {
+        display: none;;
+    }
+
+    .header__search-form {
+        width: 400px;
+        left: 55%;
+    }
+
+    .new-items {
+        padding: 80px 0;
+    }
+    .collections__item-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .collections__inner.slick-initialized .slick-slide {
+        display: block;
+        height: 100%;
+        overflow-y: hidden;
+      }
+      .collections__item-right {
+          max-width: 100%;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          padding: 20px 0;
+      }
+    
+     .slick-arrow {
+         top: 30%;
+     }
+    
+      .collections__item-right__img img {
+        max-height: 400px;
+        width: 50%;
+     }
+    
+      .collections__item-left {
+          max-width: 100%;
+      }
+
+      .collections__item-left__img {
+        min-height: 470px;
+        
+      }
+
+      .footer__item {
+        padding: 15px 15px;
+      }
+   
+}
+
+@media(max-width: 795px){ 
+  .header__box--left {
+      padding-left: 10px;
+
+  }
+  .categories__inner--left,
+  .categories__inner--right {
+      display: none;
+  }
+
+  .categories__inner {
+      height: 20px;
+  }
+  
+}
+
+@media(max-width: 786px) {
+
+    .slider__item-img {
+        min-height: 487px;
+    }
+
+    .menu-item.delivery {
+        display: none;
+    }
+
+    .header__search-form {
+        width: 190px;
+    }
+    .sales-leaders {
+        padding: 80px 0;
+    }
+
+    .projects {
+        padding-bottom: 80px;
+    }
+
+    .footer-items {
+        justify-content: space-around;
+    }
+
+    .footer__inner {
+        padding: 80px 15px;
+    }
+
+   .footer__bottom {
+       padding: 0;
+   }
+
+
+}
+
+@media(max-width: 587px){
+
+    .header__phone {
+        display: none;
+    }
+
+    .header__box--left {
+        padding-top: 5px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .header__top-inner {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+    .header__search-form::before {
+        top: 14px;
+    }
+
+    
+
+    .header__search-form input {
+        height: 30px;
+    }
+    .header__logo {
+        font-size: 30px;
+    }
+
+    .header__btn {
+        margin-right: 40px;
+    }
+    .header__search-form {
+        width: 400px;
+        left: 50%;
+    }
+
+    .header__search-form input {
+        margin-top: 10px;
+    }
+
+    .header__btn {
+        margin-top: 10px;
+    }
+    .close.active {
+        height: 0;
+    }
+    
+     .slider__item-info {
+        left: 10px;
+    }
+
+    .slider__title {
+        font-size: 30px;
+    }
+    .collections__item-left__title {
+        font-size: 30px;
+        max-width: unset;
+    }
+
+    .collections__item-left__info {
+        left: 100px;
+
+    }
+    .collections__item-right__inner {
+        margin-left: 10px;
+    }
+
+    .collections__item-right {
+        flex-direction: column;
+    }
+
+    .projects__title {
+        margin-top: 30px;
+    }
+
+    .new-items {
+        padding: 10px 0;
+    }
+
+    .projects {
+        padding-bottom: 60px;
+    }
+
+    .footer__inner {
+        padding: 50px 15px;
+    }
+}
+
+@media(max-width: 444px){
+    .header__search-form {
+        width: 290px;
+        left: 52%;
+    }
+   
+    .slider__item-info {
+        width: 270px;
+    }
+    .sales-leaders__images, .new-items__images {
+        width: 200px;
+    }
+    
+
+    .slider__title {
+        line-height: 44px;
+    }
+
+    .sales-leaders {
+    padding: 50px 0;
+    }
+    .new-items {
+        padding: 10px 0;
+    }
+    .projects__card img {
+        height: 200px;
+    }
+    .collections__item-right__inner {
+        margin-left: 10px;
+    }
+
+    .collections__item-left__info {
+        left: 20px;
+    }
+
+    .slick-arrow {
+        top: 25%;
+    }
+
+    .footer__inner-title {
+        margin-bottom: 30px;
+    }
+
+    .footer__items {
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+}
+
+
+
+
+
+
+
