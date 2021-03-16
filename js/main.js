@@ -183,7 +183,7 @@
     origin: "left",
     duration: 1000,
     distance: '25rem',
-    delay: 600
+   
 
     });
 
@@ -193,7 +193,7 @@
     origin: "right",
     duration: 1000,
     distance: '25rem',
-    delay: 600
+   
 
     });
 
@@ -203,7 +203,7 @@
     origin: "top",
     duration: 1000,
     distance: '25rem',
-    delay: 600
+   
 
     });
 
@@ -213,7 +213,7 @@
     origin: "bottom",
     duration: 1000,
     distance: '25rem',
-    delay: 600
+//     delay: 600
 
     });
 
